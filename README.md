@@ -10,4 +10,4 @@ The steps we need to do in order to create a push our changes and merge on the M
 6) git push origin branch-name
 
 The last step is the most important, this will create a pull request that will open a discusion on github, after aproval the branc with the name
-branch-name will be merged onto main branch.
+branch-name will be merged onto main branch. A
