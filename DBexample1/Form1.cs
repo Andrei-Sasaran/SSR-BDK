@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Microsoft.Data.SqlClient;
 using System.Data.SqlClient;
 
+
 namespace DBexample1
 {
     public partial class Form1 : Form
@@ -64,6 +65,24 @@ namespace DBexample1
                     listBox_Fac.Items.Add(nameFac);
                 }
             }
+        }
+
+        private void btn_Update_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Insert_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Hide();
+            
+        }
+
+        private void btn_Delete_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
