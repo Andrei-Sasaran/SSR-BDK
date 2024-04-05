@@ -1,0 +1,7 @@
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\bin\Debug\MyFirtstClient.exe.config
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\bin\Debug\MyFirtstClient.exe
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\bin\Debug\MyFirtstClient.pdb
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\obj\Debug\MyFirtstClient.csproj.AssemblyReference.cache
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\obj\Debug\MyFirtstClient.csproj.CoreCompileInputs.cache
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\obj\Debug\MyFirtstClient.exe
+C:\Users\andeu\Documents\Visual Studio 2022\Projects\MyFirtstClient\obj\Debug\MyFirtstClient.pdb
